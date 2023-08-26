@@ -6,3 +6,4 @@
 - [ChatGPT with PyVista #3984](https://github.com/pyvista/pyvista/discussions/3984)
 - [Plotting earthquake locations GeoVista which is the extension of PyVista #4661](https://github.com/pyvista/pyvista/discussions/4661)
 - [Find a Z value, with a known X,Y #1957](https://github.com/pyvista/pyvista/discussions/1957)
+- [pygeodesic #2424](https://github.com/pyvista/pyvista/discussions/2424)
