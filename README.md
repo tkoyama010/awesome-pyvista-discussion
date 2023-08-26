@@ -2,5 +2,6 @@
 - [Professional Support for PyVista #4033](https://github.com/pyvista/pyvista/discussions/4033)
 - [Capturing PyVista's user stories #2133](https://github.com/pyvista/pyvista/discussions/2133)
 - [How does PyVista relate to other visualization tools? #1438](https://github.com/pyvista/pyvista/discussions/1438)
+- [PyVista vs vedo #3470](https://github.com/pyvista/pyvista/discussions/3470)
 - [ChatGPT with PyVista #3984](https://github.com/pyvista/pyvista/discussions/3984)
 - [Plotting earthquake locations GeoVista which is the extension of PyVista #4661](https://github.com/pyvista/pyvista/discussions/4661)
