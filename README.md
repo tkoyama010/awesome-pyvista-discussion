@@ -7,3 +7,4 @@
 - [Plotting earthquake locations GeoVista which is the extension of PyVista #4661](https://github.com/pyvista/pyvista/discussions/4661)
 - [Find a Z value, with a known X,Y #1957](https://github.com/pyvista/pyvista/discussions/1957)
 - [pygeodesic #2424](https://github.com/pyvista/pyvista/discussions/2424)
+- [Angle between cell surface normal and a line #4286](https://github.com/pyvista/pyvista/discussions/4286)
