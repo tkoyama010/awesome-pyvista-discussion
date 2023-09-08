@@ -8,3 +8,4 @@
 - [Find a Z value, with a known X,Y #1957](https://github.com/pyvista/pyvista/discussions/1957)
 - [pygeodesic #2424](https://github.com/pyvista/pyvista/discussions/2424)
 - [Angle between cell surface normal and a line #4286](https://github.com/pyvista/pyvista/discussions/4286)
+- [Converting 3D world coordinates into 2D view coordinates #4416](https://github.com/pyvista/pyvista/discussions/4416)
