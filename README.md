@@ -11,6 +11,7 @@
 - [Converting 3D world coordinates into 2D view coordinates #4416](https://github.com/pyvista/pyvista/discussions/4416)
 ## Filters
 - [Find a Z value, with a known X,Y #1957](https://github.com/pyvista/pyvista/discussions/1957)
+- [boolean_difference not working?](https://github.com/pyvista/pyvista/discussions/4905)
 ## PyVista in Action
 - [Plotting earthquake locations GeoVista which is the extension of PyVista #4661](https://github.com/pyvista/pyvista/discussions/4661)
 - [ChatGPT with PyVista #3984](https://github.com/pyvista/pyvista/discussions/3984)
