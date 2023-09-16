@@ -9,3 +9,13 @@
 - [pygeodesic #2424](https://github.com/pyvista/pyvista/discussions/2424)
 - [Angle between cell surface normal and a line #4286](https://github.com/pyvista/pyvista/discussions/4286)
 - [Converting 3D world coordinates into 2D view coordinates #4416](https://github.com/pyvista/pyvista/discussions/4416)
+## Introduction
+## Using PyVista in Jupyter
+## Basic usage
+## What is a Mesh?
+## Plotting Options and Animations
+## Filters
+## PyVista in Action
+## PyVista & VTK
+## Widgets in PyVista
+## PyVista and Trame
