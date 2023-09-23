@@ -5,6 +5,7 @@
 - [How does PyVista relate to other visualization tools? #1438](https://github.com/pyvista/pyvista/discussions/1438)
 ## Using PyVista in Jupyter
 ## Basic usage
+- [How to get the files used in the example, for example **.mhd #4949](https://github.com/pyvista/pyvista/discussions/4949)
 ## What is a Mesh?
 - [Angle between cell surface normal and a line #4286](https://github.com/pyvista/pyvista/discussions/4286)
 ## Plotting Options and Animations
